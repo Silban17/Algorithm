@@ -1,4 +1,4 @@
-package com.silban.algorithm.programmers
+package com.silban.algorithm.programmers.sort
 
 import org.junit.Assert
 import org.junit.Test
